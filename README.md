@@ -4,6 +4,9 @@
 * **Student ID:** 2024290614
 * **Course Code:** ITT440 (Network Programming)
 * **Group:** M3CS2554B
+* **GitHub Link:** https://github.com/Nabilah1105/Parallel_Workforce_Payroll_Engine
+* **YouTube Demo:** [Klik Sini Untuk Tonton Video](LETAK_LINK_YOUTUBE_BELLA_KAT_SINI)
+
 
 ### 1. Introduction
 The Parallel Workforce Payroll Engine is a high-performance Python application designed to process large-scale payroll data. In a real-world scenario, processing millions of employee records sequentially can be extremely slow. This project demonstrates how we can use Parallel Programming to split 5 million records into 8 different departments and process them simultaneously to save time.
