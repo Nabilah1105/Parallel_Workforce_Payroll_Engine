@@ -49,7 +49,7 @@ The dataset for this project consists of 5 million records. Due to the large fil
 - **Concurrent Time:** ~13.09s
 
 - **Parallel Time:** ~7.54s
-
+![Performance Graph](Graph_payroll.png)
 By using 8 processes, we successfully reduced the processing time by nearly 46% compared to the sequential method.
 
 ### 7. Conclusion
